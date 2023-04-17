@@ -1,4 +1,6 @@
 /** 
+ * Clase que nos realiza la suma en una calculadora
+ * 
  * @author Manuel Pablo
  * @version 0.0.1
  */
