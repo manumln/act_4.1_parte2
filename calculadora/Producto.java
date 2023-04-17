@@ -5,6 +5,7 @@ package calculadora;
 *Clase que realiza operaciones de multiplicación y potenciación.
 *
 *
+*
 *@author Irene Beriain
 *@version 0.0.1
 */
